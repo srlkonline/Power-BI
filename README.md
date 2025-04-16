@@ -3,6 +3,7 @@
 This repository showcases a collection of Power BI dashboards designed to deliver clean, interactive, and insightful data visualizations. Each project focuses on transforming raw data into meaningful insights through well-structured reports and visuals, supporting better data-driven decision-making.
 
 
+
 # Key Features:
 
 -Professional Layouts: Clean, modern, and user-friendly dashboard designs.
@@ -14,6 +15,7 @@ This repository showcases a collection of Power BI dashboards designed to delive
 -Custom Visuals: Use of Power BI’s native and custom visuals for enhanced storytelling.
 
 -Optimized for Clarity: Minimalist design for maximum readability and impact.
+
 
 
 #Use Cases:
@@ -29,6 +31,7 @@ This repository showcases a collection of Power BI dashboards designed to delive
 -Operational efficiency dashboards
 
 -Healthcare Analytics
+
 
 
 The Visualization of disabilites data were taken from the UDID portal upto [10/04/2025]
