@@ -28,6 +28,8 @@ This repository showcases a collection of Power BI dashboards designed to delive
 
 -Operational efficiency dashboards
 
+-Healthcare Analytics
+
 
 The Visualization of disabilites data were taken from the UDID portal upto [10/04/2025]
 https://www.swavlambancard.gov.in/dashboardchart
