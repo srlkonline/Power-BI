@@ -2,17 +2,17 @@
 
 This Power BI dashboard visualizes key metrics from the World Happiness Report to explore the factors influencing global well-being. It includes both positive and negative dimensions of happiness, such as:
 
-# GDP per capita
+GDP per capita
 
-# Freedom to make life choices
+-Freedom to make life choices
 
-# Positive and negative emotional experiences
+-Positive and negative emotional experiences
 
-# Perceptions of corruption
+-Perceptions of corruption
 
-# Healthy life expectancy
+-Healthy life expectancy
 
-# Life ladder score
+-Life ladder score
 
 
 # Features:
