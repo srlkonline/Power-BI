@@ -1,4 +1,4 @@
-# Beyond Smiles: Global Brreakdown of Happiness Dashboard
+# Beyond Smiles: Global Breakdown of Happiness Dashboard
 
 This Power BI dashboard visualizes key metrics from the World Happiness Report to explore the factors influencing global well-being. It includes both positive and negative dimensions of happiness, such as:
 
