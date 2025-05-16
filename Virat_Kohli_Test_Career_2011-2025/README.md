@@ -1,4 +1,4 @@
-# Virat Kohli Test Dashboard
+# Virat Kohli Test Career Dashboard
 
 ## Driven by Consistency: Virat Kohli’s Test Career Dashboard (2011–2025)
 
